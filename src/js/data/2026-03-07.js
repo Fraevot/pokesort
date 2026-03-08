@@ -405,7 +405,7 @@ dataSet[dataSetVersion].characterData = [
     img: "clefairy.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evo1"],
+      evo: ["evo2"],
       type: ["fairy"],
       notstarter: true
     }
@@ -415,7 +415,7 @@ dataSet[dataSetVersion].characterData = [
     img: "clefable.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evo2"],
+      evo: ["evo3"],
       type: ["fairy"],
       notstarter: true
     }
