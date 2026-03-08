@@ -305,7 +305,7 @@ dataSet[dataSetVersion].characterData = [
     img: "pikachu.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evo1"],
+      evo: ["evo2"],
       type: ["electric"],
       notstarter: false
     }
@@ -315,7 +315,7 @@ dataSet[dataSetVersion].characterData = [
     img: "raichu.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evo2"],
+      evo: ["evo3"],
       type: [""],
       notstarter: true
     }
@@ -445,7 +445,7 @@ dataSet[dataSetVersion].characterData = [
     img: "jigglypuff.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evo1"],
+      evo: ["evo2"],
       type: ["normal", "fairy"],
       notstarter: true
     }
@@ -455,7 +455,7 @@ dataSet[dataSetVersion].characterData = [
     img: "wigglytuff.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evo2"],
+      evo: ["evo3"],
       type: ["normal", "fairy"],
       notstarter: true
     }
