@@ -1005,7 +1005,7 @@ dataSet[dataSetVersion].characterData = [
     img: "onix.png",
     opts: {
       gen: ["gen1"],
-      evo: ["evos"],
+      evo: ["evo1"],
       type: ["rock", "ground"],
       notstarter: true
     }
