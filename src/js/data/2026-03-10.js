@@ -1389,7 +1389,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Eevee",
-    img: "Eevee.png",
+    img: "eevee.png",
     opts: {
       gen: ["g1"],
       evo: ["1"],
