@@ -4961,7 +4961,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hippopotas",
+    name: "Hippopotas (Male)",
     img: "hippopotas.png",
     opts: {
       gen: ["g4"],
@@ -4971,13 +4971,35 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Hippowdon",
+    name: "Hippotas (Female)",
+    img: "hippotasfemale.png",
+    opts: {
+      gen: ["g4"],
+      evo: ["1"],
+      type: ["ground"],
+      notstarter: true,
+      variant: true
+    }
+  },
+  {
+    name: "Hippowdon (Male)",
     img: "hippowdon.png",
     opts: {
       gen: ["g4"],
       evo: ["2"],
       type: ["ground"],
       notstarter: true
+    }
+  },
+  {
+    name: "Hippowdon (Female)",
+    img: "hippowdonfemale.png",
+    opts: {
+      gen: ["g4"],
+      evo: ["2"],
+      type: ["ground"],
+      notstarter: true,
+      variant: true
     }
   },
   {
